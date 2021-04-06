@@ -1,0 +1,45 @@
+public class HelloWorld {
+	
+
+// 2.2 
+	/////??? 1/////?? comment ?????run progarm
+	/*public static void main(String[]args) {
+		
+		bark();
+	}	
+	
+	public static void bark(){
+		String local = "gogo";
+		System.out.println("The Dog name:" +local);
+
+	}
+	//////??? 2//////
+public static void main(String[]args) {
+	
+	float newFloat = 5.5f;
+	int newInt = (int) newFloat; //Narrowing
+	System.out.println("newFloat value: " + newFloat);
+	System.out.println("newInt value: " + newInt); 
+	
+	
+	int myInt = 5;
+	float myFloat = myInt; //Widening
+	System.out.println("myInt value: " + myInt);
+	System.out.println("myFloat value: " + myFloat);
+		
+
+	double newDouble = 5.5d;
+	float newFloat1 = (float) newDouble; //Narrowing
+	System.out.println("newDouble value: " + newDouble);
+	System.out.println("newFloat value: " + newFloat1); 
+////////???3//////////
+	final String finalint = "Hello";
+	finalint = "World";
+			
+	System.out.println(finalint);
+}*/
+
+
+
+
+}

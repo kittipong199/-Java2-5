@@ -1,0 +1,24 @@
+public class HelloWorld {
+
+	public static void main(String[]args) {
+	////////////////lad 9 //////////
+	public static void main(String[]args) {
+		
+		int count =0 ;
+		for(count=1; count <= 20; count++) {
+			if(count == 11) {
+				continue;
+			}
+			System.out.println("count:"+count);
+	}
+
+	//Lad 10 ??? 1 
+		/*for(int count_1 = 0;count_1 <10; count_1++) {
+			
+				if(count_1 == 2 )
+					continue;
+				System.out.println("Count_1:" + count_1);
+			
+		}*/
+}
+}

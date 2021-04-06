@@ -1,0 +1,23 @@
+public class HelloWorld {
+///////?????4.3////////////////////
+public static void main(String[]args) {
+		int score = 80;
+		String mealString = "";
+		switch (score) {
+		case 80:
+		mealString = "A"; break;
+		case 70:
+		mealString = "B"; break;
+		case 60:
+		mealString = "C"; break;
+		case 50:
+		mealString = "D"; break;
+		case 40:
+			mealString = "F"; break;
+		default:
+		System.out.println("E");
+		}
+		System.out.println(mealString);
+
+}
+}

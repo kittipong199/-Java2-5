@@ -1,0 +1,17 @@
+public class HelloWorld {
+	public static void main(String[]args) {
+		
+		
+		// test comment 
+		/* test comment*/
+		// ??? 2.1 
+
+	int num = 1;
+	boolean boo = true;
+	String test = "Hello";
+	long go = 10 ;
+	byte min = 2;
+	
+	System.out.println("This is a String:" + test +"This is a int" +num+"This is a boolean"+boo+"This is a long"+go+"This is a byte"+min+"");
+		}
+}

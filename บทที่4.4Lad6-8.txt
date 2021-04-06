@@ -1,0 +1,74 @@
+public class HelloWorld {
+	public static void main(String[]args) {
+
+// LAD6 ??? 1
+		/*int i = 0;
+		while(i <= 10 ) {
+			System.out.println("I:"+ i);
+			i++;
+}*/
+		// LAD 6 ???2 
+		/*int sum = 0;
+		int i = 1 ;
+		for (i = 1; i <= 10; i++ ) {
+			sum += i;
+		}
+		System.out.println("sum:"+ sum);
+	}*/
+		//LAD 6 ???3
+		/*int sum=0,tmp = 0 , ;
+		for(int i = 1; i<= 100; i++) {
+			if ((i% 12) ==0) {
+				tmp = sum;
+				sum+= i;
+				
+				System.out.println(i+" + "+tmp+" = "+sum);
+			}
+		}
+		// LAD6 ??? 4 
+		int myArray[] = {1,2,3,4,5,};
+		for(int sum: myArray) {
+		System.out.println("sum:" + sum);
+		}
+		}*/
+
+/////////////////////Lad 7 ////////////////////////////
+
+/////////////lad 7 /////////////////
+	/*import java.util.Scanner;
+	public class HelloWorld {
+	public static void main(String[]args) {
+		int i = 20;
+		Scanner kb = new Scanner(System.in);////???2
+		
+		do {
+			System.out.println("i:" +i);
+			
+			i--;
+		}while(i >= 0);
+		
+		////////???2//////////
+		while(true){
+			System.out.println("??????? = ");
+			int number=kb.nextInt();// max = 100
+			if(number% 2==1 )break;
+			
+		}
+		
+		
+	}
+}*/
+
+//////////////////////////////////lad 8 /////////////////////////////
+//Lad 8 ??? 1 
+		/*int count =0;
+		for(count=1; count <= 20; count++) {
+			if(count == 11) {
+				break;
+			}
+			System.out.println("count:"+count);
+		}*/
+
+}
+
+}

@@ -1,0 +1,41 @@
+public class HelloWorld {
+
+//////?????3////////
+	/*public static void main(String[]args) {
+		
+		 ////??? 1
+		/*for(int i =20 ; i <= 25; i++) {
+			
+				if ( i == 25  ) {
+					continue;
+				}
+				System.out.println("this is :" + i);
+			
+		}*/
+		 
+		/*for(int i = 20 ; i >=15 ; --i) {
+			
+				if ( i == 15  ) {
+					continue;
+				}
+				System.out.println("this is :" + i);
+			
+		}
+		
+		//// ???2 ??? 3
+		float level1 = 3.3f;
+		float levle2 = 4.4f;
+		
+		char levle3 = 3;
+		char levle4 = 4;
+		
+		if(level1 <= 4 && levle2 >= 3){
+		System.out.println("hello float");
+		}
+		
+		if(levle3 <= 4 || levle4 >= 3){
+			System.out.println("hello char");
+			}
+	}
+	*/
+}
